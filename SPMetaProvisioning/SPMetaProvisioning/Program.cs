@@ -16,7 +16,7 @@ namespace SPMetaProvisioning
     {
         static void Main(string[] args)
         {
-            var siteUrl = "https://devtele2.sharepoint.com";
+           
 
 
             // define fields
